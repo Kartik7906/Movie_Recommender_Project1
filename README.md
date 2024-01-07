@@ -30,3 +30,7 @@ The Movie Recommender Project is a data-driven recommendation system that sugges
 6. Output:
    - Provided users with a list of recommended movies along with relevant details such as titles, genres, and release years.
    - Displayed images or posters of recommended movies for a more engaging user experience.
+  
+# Steps:
+1> import movie recommender python file on Jyupter Notebook
+2> import website python file on pycharm with all other file included
